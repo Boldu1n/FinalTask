@@ -1,2 +1,1 @@
-# FinalTask
-FinalTask for stepik
+Финальное задание для курса от Stepik
